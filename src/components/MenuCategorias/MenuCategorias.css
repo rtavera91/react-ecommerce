@@ -1,0 +1,13 @@
+.menu-categorias {
+  color: white; /* Cambia el color del texto a blanco */
+}
+
+.menu-categorias button {
+  color: white; /* Cambia el color del texto del botón a blanco */
+}
+
+.menu-categorias a {
+  color: white; /* Cambia el color del texto de los enlaces a negro */
+  text-decoration: none;
+  font-size: 18px;
+}

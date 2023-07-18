@@ -1,0 +1,13 @@
+.banner {
+  height: 300px;
+  max-width: 100%;
+}
+
+.Header {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  margin-bottom: 1rem;
+}
